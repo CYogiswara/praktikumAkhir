@@ -1,0 +1,12 @@
+.ul{
+    display: flex;
+    flex-direction: column;
+}
+
+.li{    
+    color: black;
+    background-color: red;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
